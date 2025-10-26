@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marco Junior
 
-**`Desenvolvedor FullStack e Técnico de manutenção`**
+**`Técnico de montagem e manutenção de computadores | Operador de produção`**
 
 Olá! Me chamo Marco Junior, tenho 19 anos e sou natural de Campinas/SP.  
 Concluí o Ensino Médio em 2023 e atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAI Roberto Mange.  
