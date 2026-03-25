@@ -1,12 +1,3 @@
-# 👩🏻‍💻 Marco Junior
-
-**`Técnico de montagem e manutenção de computadores | Operador de produção`**
-
-Olá! Me chamo Marco Junior, tenho 19 anos e sou natural de Campinas/SP.  
-Concluí o Ensino Médio em 2023 e atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia SENAI Roberto Mange.  
-Possuo 8 anos de experiência com montagem e manutenção de computadores, sou apaixonado por tecnologia desde pequeno e estou sempre em busca de novos conhecimentos na área de manutenção e desenvolvimento.
-
-
 <p align="left">
     <a href="https://mail.google.com/mail/u/0/#inbox?compose=DmwnWtDvfSxwTmVMpPvKvmlZLJKTkpfxLSPCRGPZvdLzrxvfkwVMHCcrvVqBthJTJNwtRrSVrkRl">
         <img 
